@@ -36,5 +36,8 @@
     "url-loader": "^4.1.1",
     "webpack": "^5.31.0",
     "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "gitmoji-cli": "^3.3.1"
   }
 }
